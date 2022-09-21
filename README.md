@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif"  />
+
 
 ###
 
@@ -36,6 +36,6 @@
 </div>
 
 ###
-
+<img align="right" height="150" src="https://c.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif"  />
 <br clear="both">
 ###
