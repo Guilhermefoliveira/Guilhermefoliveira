@@ -36,6 +36,6 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://c.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif"  />
+<img align="center" height="200" src="https://c.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif"  />
 <br clear="both">
 ###
