@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme Franco Oliveira and i'm a student from BRAZIL, living in Florianópolis. Currently working at Front-End Developer in ICETRAN.</h2>
+<h2 align="left">.</h2>
 
 ###
 
